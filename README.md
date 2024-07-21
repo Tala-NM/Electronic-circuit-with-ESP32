@@ -51,5 +51,8 @@ You can view and interact with the circuit design on Wokwi using the following l
 Here are images of the circuit:
 
 ![Circuit Photo 1](IMG_5275.jpg)
+
+Example of 'forward' direction :
+
 ![Circuit Photo 2](IMG_5273.jpg)
 
